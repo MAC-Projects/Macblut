@@ -11,6 +11,8 @@ particular the implementation provided by the
 states is determined through a custom heuristic, which differs based on whether
 the player is playing as black (attacker) or white (defender).
 
+Further information (in Italian) can be found in “presentation.pdf”.
+
 ## White Heuristic
 
 * Percentage of yet non-captured white pawns
